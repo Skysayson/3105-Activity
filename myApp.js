@@ -1,5 +1,5 @@
-const myName = "Sky";
+const myName = "Vi";
 
-console.log("Hello World")
+console.log("Hello World!")
 
-console.log(myName + " " + " Says hello")
+console.log(myName + " Says hello!")
