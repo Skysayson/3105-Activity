@@ -2,4 +2,4 @@ const myName = "Sky";
 
 console.log("Hello World")
 
-console.log(myName + " " + " Says hello")
+console.log(myName + " " + " Says hell")
